@@ -1,6 +1,6 @@
 # Inspire Me
 
-InspireMe is an Angular App that has a quotes platform where you can add your favorite quotes in it. It includes a button to delete a quote that you don't find inspiring. You can also upvote or devote a quote.
+InspireMe is an Angular App that has a quotes platform where you can add your favorite quotes. It includes a button to delete a quote that you don't find inspiring. You can also upvote or devote a quote.
 
 ## Requirements
 
