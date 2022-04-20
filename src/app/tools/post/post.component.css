@@ -1,0 +1,9 @@
+.action-item {
+    margin-left: .5em;
+    cursor: pointer;
+}
+#post-button {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+}
