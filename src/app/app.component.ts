@@ -10,3 +10,13 @@ export class AppComponent {
   
    
 }
+export interface user {
+Quote: string;
+Author: string;
+}
+
+columnsToDisplay: string[] = ["Quote", "Author"];
+
+public USER_DATA: user[] = []
+
+public newUser = {Quote: "A commit a day keeps poverty away", Author: "Joylene"};
